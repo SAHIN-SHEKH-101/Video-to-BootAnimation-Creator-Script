@@ -29,10 +29,10 @@ termux-setup-storage && pkg install -y openssl-tool python && pip install yt-dlp
 # How To Use?
 - Copy and paste any one of below command in `linux terminal` or `termux`
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/sahin-shekh-101/Video-to-BootAnimation-Creator-Script/main/ssbootanim.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAnimation-Creator-Script/main/ssbootanim.sh)
 ```
 ```
-curl -sSL https://raw.githubusercontent.com/sahin-shekh-101/Video-to-BootAnimation-Creator-Script/main/ssbootanim.sh -o ssbootanim.sh && chmod +x ssbootanim.sh && ./ssbootanim.sh
+curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAnimation-Creator-Script/main/ssbootanim.sh -o ssbootanim.sh && chmod +x ssbootanim.sh && ./ssbootanim.sh
 ```
 
 ## Install Permanently on `Termux`
@@ -69,7 +69,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAn
 - Converts bootanimation.zip into video
 - Not Guaranteed to work with every Bootanimation.zip
 ```
-curl -sSL https://raw.githubusercontent.com/sahin-shekh-101/Video-to-BootAnimation-Creator-Script/main/boot2mp4.sh -o boot2mp4.sh
+curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAnimation-Creator-Script/main/boot2mp4.sh -o boot2mp4.sh
 chmod +x boot2mp4.sh
 ./boot2mp4.sh
 ```
