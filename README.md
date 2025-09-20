@@ -69,9 +69,9 @@ bash <(curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAn
 - Converts bootanimation.zip into video
 - Not Guaranteed to work with every Bootanimation.zip
 ```
-curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAnimation-Creator-Script/main/boot2mp4.sh -o boot2mp4.sh
-chmod +x boot2mp4.sh
-./boot2mp4.sh
+curl -sSL https://raw.githubusercontent.com/sahinshekh101/Video-to-BootAnimation-Creator-Script/main/ssbootanim.sh -o ssbootanim.sh
+chmod +x ssbootanim.sh
+./ssbootanim.sh
 ```
 
 
